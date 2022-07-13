@@ -42,7 +42,7 @@ static StaticTask_t Timer_Task_TCB;
 int main(void)
 {
   
-  LOGD("beginning");
+  LOGD("beginning rtos");
   /* Reset of all peripherals, Initializes the Flash interface and the Systick. */
 
   HAL_Init();
