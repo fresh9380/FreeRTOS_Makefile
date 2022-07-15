@@ -41,6 +41,7 @@ Core/Src/led.c \
 Core/Src/usart.c \
 Core/Src/timer.c \
 Core/Src/app.c \
+Core/Src/key.c \
 Core/Src/sysclock.c \
 Core/Src/stm32f4xx_it.c \
 Core/Src/stm32f4xx_hal_msp.c \

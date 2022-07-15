@@ -66,7 +66,7 @@ int main(void)
   if( AppTaskCreate_Handle == NULL) 
   {
     LOGE("task creat failed");
-  }
+  } 
   else 
   {
     vTaskStartScheduler();
